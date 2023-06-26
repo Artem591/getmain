@@ -1,1 +1,1 @@
-# getmain
+# gitmain
